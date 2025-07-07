@@ -64,7 +64,7 @@ Enable two-factor authentication through your ExpressVPN settings to add an extr
 
 Frequently Asked Questions (FAQs)
 Where can I access the online Express VPN login page?
-Visit https://www.expressvpn.com/sign-in to log in securely.
+Visit official site to log in securely.
 
 Can I use the same login on different devices?
 Yes, your ExpressVPN subscription supports multiple simultaneous device connections.
