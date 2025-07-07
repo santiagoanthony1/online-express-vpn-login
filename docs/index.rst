@@ -6,7 +6,7 @@ How Do I Use Online Express VPN Login Securely?
    :caption: Contents:
 Discover how to access your ExpressVPN account online, manage your settings, and stay protected with a secure login process.
  
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Express VPN
    :width: 400px
    :align: center
